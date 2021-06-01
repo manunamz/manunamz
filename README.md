@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on: https://shorty25h0r7.github.io/jekyll-bonsai/
+Currently working on: https://manunamz.github.io/jekyll-bonsai/
