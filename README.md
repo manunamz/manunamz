@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 Just your average bonsai gardener...
 
 - [🎋 jekyll-bonsai demo](https://manunamz.github.io/jekyll-bonsai/)
-- [Template](https://github.io/manunamz/jekyll-bonsai/)
-- [Starter Template](https://github.io/manunamz/jekyll-bonsai-templ/)
+- [🪴 Template](https://github.io/manunamz/jekyll-bonsai/)
+- [🏁 Starter Template](https://github.io/manunamz/jekyll-bonsai-templ/)
