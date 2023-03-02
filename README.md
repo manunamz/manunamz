@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just your average bonsai gardener... 👉 [🎋WikiBonsai](https://github.com/wikibonsai/wikibonsai)
+Just your average bonsai gardener...
 
-- [🎋 jekyll-bonsai demo](https://jekyll-bonsai.netlify.app/)
-- [🪴 Template](https://github.com/manunamz/jekyll-bonsai/)
-- [🏁 Starter Template](https://github.com/manunamz/jekyll-bonsai-templ/)
+🧑‍🌾 [🎋WikiBonsai](https://github.com/wikibonsai/wikibonsai)
