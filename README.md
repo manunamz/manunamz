@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 Just your average bonsai gardener...
 
 🧑‍🌾 [🎋WikiBonsai](https://github.com/wikibonsai/wikibonsai)
+
+...looking for some input:
+
+[🗳 here](https://github.com/wikibonsai/wikibonsai/discussions)
