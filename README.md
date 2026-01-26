@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 Just your average bonsai gardener...
 
-🧑‍🌾 [🎋WikiBonsai](https://github.com/wikibonsai/wikibonsai)
+🧑‍🌾 [🎋WikiBonsai](https://wikibonsai.io)
